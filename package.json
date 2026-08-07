@@ -1,0 +1,19 @@
+{
+  "name": "pi-agent-backup-migrate",
+  "version": "0.1.0",
+  "description": "Backup, restore, and migrate the complete pi coding agent state (long-term memory, sessions, skills, extensions, config) across machines. Cross-platform: Windows (Git Bash) / macOS / Linux.",
+  "keywords": [
+    "pi-package",
+    "pi",
+    "pi-coding-agent",
+    "skill",
+    "backup",
+    "migrate",
+    "agent-state"
+  ],
+  "license": "MIT",
+  "author": "Feng Fanfan",
+  "pi": {
+    "skills": ["./skills"]
+  }
+}
