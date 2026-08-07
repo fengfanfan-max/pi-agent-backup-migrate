@@ -13,6 +13,17 @@
   ],
   "license": "MIT",
   "author": "Feng Fanfan",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengfanfan-max/pi-agent-backup-migrate.git"
+  },
+  "homepage": "https://github.com/fengfanfan-max/pi-agent-backup-migrate",
+  "files": [
+    "skills/",
+    "scripts/",
+    "README.md",
+    "LICENSE"
+  ],
   "pi": {
     "skills": ["./skills"]
   }
