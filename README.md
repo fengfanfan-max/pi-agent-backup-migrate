@@ -1,5 +1,7 @@
 # pi-agent-backup-migrate
 
+![preview](docs/preview.png)
+
 Backup, restore, and migrate the complete pi coding agent state across machines.
 
 **Agents remember. Machines change. Keep your save file with you.**
