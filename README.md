@@ -1,7 +1,7 @@
 # pi-agent-backup-migrate
 
 [![npm version](https://img.shields.io/npm/v/pi-agent-backup-migrate)](https://www.npmjs.com/package/pi-agent-backup-migrate)
-[![npm downloads](https://img.shields.io/npm/dm/pi-agent-backup-migrate)](https://www.npmjs.com/package/pi-agent-backup-migrate)
+[![npm downloads](https://img.shields.io/npm/dt/pi-agent-backup-migrate)](https://www.npmjs.com/package/pi-agent-backup-migrate)
 
 ![preview](docs/preview.png)
 
